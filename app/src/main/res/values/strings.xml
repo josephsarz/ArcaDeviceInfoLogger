@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Device Info Logger</string>
+    <string name="permission_required_msg">"You need to allow access to all permissions to use the app"</string>
+</resources>
